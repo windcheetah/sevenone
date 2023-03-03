@@ -9,7 +9,7 @@ registry:
     - MRSK_REGISTRY_PASSWORD
 env:
   clear:
-    DB_HOST:
+    DB_HOST: 192.241.141.71
   secret:
     - RAILS_MASTER_KEY
 accessories:
